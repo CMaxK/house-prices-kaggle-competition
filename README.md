@@ -1,6 +1,8 @@
 <img src='https://github.com/lewagon/data-images/blob/master/ML/kaggle-batch-challenge.png?raw=true' width=600>
 
-Objective is to submit my attempt at the challenge to the leaderboard - I finished in the top 13%
+Objective is to submit my attempt at the challenge to the leaderboard - the majority of my code is in the .ipynb file as I included visualtisations
+
+I finished in the top 13%
 
 ```bash
 cd ~/code/<user.github_nickname>/<program.challenges_repo_name>/05-ML/07-Ensemble-Methods/Houses-Kaggle-Competition
