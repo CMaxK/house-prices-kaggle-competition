@@ -10,5 +10,3 @@ curl https://wagon-public-datasets.s3.amazonaws.com/houses_sample_submission.csv
 pip install --upgrade pip
 pip install --upgrade scikit-learn
 ```
-
-Open `houses_kaggle_competition.ipynb` and follow instruction
